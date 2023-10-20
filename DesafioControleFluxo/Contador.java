@@ -34,3 +34,7 @@ public class Contador {
 	}
 }
 }
+
+//Não esquecer: Estudar mais sobre o assunto;
+//Treinar mais;
+//Não desistir,mesmo estando com dificuldade;
